@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Spoon",
+        "price": 20,
+        "amount":2000 
+    }, 
+    {
+        "name":"Fork",
+        "price": 15,
+        "amount":1500 
+    }, 
+    {
+        "name":"Knife",
+        "price": 25,
+        "amount":100 
+}
+]
